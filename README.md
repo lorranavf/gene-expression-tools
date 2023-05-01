@@ -14,7 +14,7 @@ transcriptome = '/path/to/transcriptome.fa'
 generate_decoy_script= '/path/to/generateDecoyTranscriptome.sh'
 salmon = '/path/to/Salmon'
 gtf_file = '/path/to/gtf_file.gtf'
-get_salmon_index(genome, transcriptome, generate_decoy_script, salmon,gtf_file)
+get_salmon_index(genome, transcriptome, generate_decoy_script, salmon, gtf_file)
 ```
 
 ### Function: get_gene_count
