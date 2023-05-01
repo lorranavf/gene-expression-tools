@@ -102,3 +102,4 @@ The following programs must also be installed and added to the system path:
 - [MultiQC](https://multiqc.info/)
 - [Salmon](https://combine-lab.github.io/salmon/)
 - [GffRead](https://github.com/gpertea/gffread)
+- [bedtools](https://github.com/arq5x/bedtools2)
