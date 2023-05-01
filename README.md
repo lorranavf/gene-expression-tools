@@ -103,7 +103,7 @@ The following programs must also be installed and added to the system path:
 - [Salmon](https://combine-lab.github.io/salmon/)
 - [GffRead](https://github.com/gpertea/gffread)
 
-generateDecoyTrnascriptome.sh requirements:
+generateDecoyTrnascriptome.sh dependenciess:
 - awk
 - [bedtools](https://github.com/arq5x/bedtools2)
 - mashmap
