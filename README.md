@@ -90,9 +90,9 @@ Before running the script, make sure you have installed the following dependenci
 - pandas version 1.2.0 or higher
 - numpy version 1.19.5 or higher
 - requests version 2.25.1 or higher
-- seaborn version 0.11.1 or higher
 - tqdm version 4.60.0 or higher
 - matplotlib version 3.3.4 or higher
+- seaborn version 0.11.1 or higher
 
 The following programs must also be installed and added to the system path:
 
