@@ -101,3 +101,4 @@ The following programs must also be installed and added to the system path:
 - [Trimmomatic](https://github.com/usadellab/Trimmomatic)
 - [MultiQC](https://multiqc.info/)
 - [Salmon](https://combine-lab.github.io/salmon/)
+- [GffRead](https://github.com/gpertea/gffread)
