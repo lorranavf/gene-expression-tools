@@ -12,6 +12,8 @@ from rna_seq_pipeline import get_salmon_index
 genome = '/path/to/genome.fa'
 transcriptome = '/path/to/transcriptome.fa'
 gtf_file = '/path/to/gtf_file.gtf'
+generate_decoy_script= '/path/to/generateDecoyTranscriptome.sh'
+salmon = '/path/to/Salmon'
 get_salmon_index(genome, transcriptome, gtf_file)
 ```
 
