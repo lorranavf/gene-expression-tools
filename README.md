@@ -1,6 +1,7 @@
 # Gene Expression Tools: Python functions for quantify the expression of transcripts  and statistics from RNA-Seq libraries downloaded from NCBI database
 This repository contains a script in Python to perform RNA-Seq analysis on raw reads downloaded from the NCBI database and generate correlations analysis.
 
+## Expression analysis toolkit
 This repository contains seven functions:
 
 #### get_salmon_index
